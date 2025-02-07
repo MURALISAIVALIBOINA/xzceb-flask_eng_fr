@@ -1,1 +1,1 @@
-# coding-project-template
+# ENGLISH TO FRENCH AND FRENCH TO ENGLISH TRANSLATOR
